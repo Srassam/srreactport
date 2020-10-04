@@ -1,7 +1,7 @@
 import React from "react";
 
 function Portfolio() {
-    console.log(workdayscheduler)
+
     return (
 
         <div className="container w-auto full-page pb-3">
@@ -17,11 +17,7 @@ function Portfolio() {
                             href="https://github.com/Srassam/Work_Day_Scheduler"
                             target="_blank"
                         >
-                            <img
-                                src={workdayscheduler}
-                                className="img-fluid p-3"
-                                alt="Workday Scheduler"
-                            />
+
                         </a>
                     </div>
                 </div>

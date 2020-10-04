@@ -3,7 +3,7 @@ import React from "react";
 function About() {
     return (
 
-        <div className={{ backgroundcolor: blue }}></div>
+
         <div className="container w-100 full-page pb-5">
             <div className="row w-100">
                 <div className="col-md-1"></div>
