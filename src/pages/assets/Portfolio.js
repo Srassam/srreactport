@@ -1,7 +1,5 @@
 import React from "react";
 
-import weatherDash from "./assets/img/workdayscheduler.png";
-
 function Portfolio() {
     console.log(workdayscheduler)
     return (
